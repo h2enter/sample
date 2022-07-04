@@ -1,0 +1,97 @@
+h1 {
+	font-size: 150%;
+}
+
+header {
+	background: #FF4500;
+	text-align: center;
+	padding: 15px;
+}
+
+nav {
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Time New Roman", serif;
+}
+
+h2 {
+	background: #00CED1;
+}
+
+footer {
+ 	background: #FF4500;
+ 	clear: both;
+ 	text-align: center;
+ 	padding: 0.5%;
+}
+
+details {
+	font-style: italic;
+}
+
+summary {
+	font-style: normal;
+	font-weight: bolder;
+}
+
+body {
+	background: #98FB98;
+	margin: 4%;
+}
+
+.half {
+	display: inline-block;
+	width: 45%;
+	float: left;
+	margin-right: 2%;
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
+
+img {
+	width: 125px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: 	#FFFFFF;
+}
+
+nav a {
+	display: inline-block;
+	background: #000000;
+	padding: 5px 20px;
+	margin: 0 3px;
+	width: 13%;
+	border-radius: 10px;
+}
+
+header, footer {
+	background: linear-gradient(#FF4500, #FFD700);
+	border-radius: 20px;
+}
+
+.whole {
+	clear: both;
+}
+
+nav a:hover {
+	background: #00CED1;
+}
+
+h2 {
+	border-radius: 10px;
+	text-align: center;
+}
+
+h2:first-child {
+	padding: ;
+}
+
+footer a:hover {
+	color: #00CED1;
+}
